@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationLibrary", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLibrary", "LoggerLibrary\LoggerLibrary.csproj", "{4E78D256-4332-4C5B-9E24-2EA1EF5757F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverLibrary", "WebDriverLibrary\WebDriverLibrary.csproj", "{5AF14594-6979-4579-A99E-77D7BD6F3AFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4E78D256-4332-4C5B-9E24-2EA1EF5757F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E78D256-4332-4C5B-9E24-2EA1EF5757F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E78D256-4332-4C5B-9E24-2EA1EF5757F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF14594-6979-4579-A99E-77D7BD6F3AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF14594-6979-4579-A99E-77D7BD6F3AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF14594-6979-4579-A99E-77D7BD6F3AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF14594-6979-4579-A99E-77D7BD6F3AFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
